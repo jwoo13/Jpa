@@ -1,0 +1,2 @@
+JPA 정확한 정의
+Java Persistence API의 약자이며 자바의 ORM을 위한 표준 기술로 Hibernate, Spring JPA, EcliplseLink 등 과 같은 구현체가 있고 이것의 표준 인터페이스가 JPA이다
