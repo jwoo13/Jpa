@@ -12,6 +12,8 @@ persist() 메소드
 데이터베이스에 전달함.
 
 
+
+
 조회기능
 find()메소드
 예)String memberId ="helloId";
